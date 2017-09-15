@@ -12,6 +12,7 @@ Salute, ricchezza e origini della disuguaglianza in Italia
 | ------ | ------ |
 | output/G1_Reddito_e_Aspettativa.png | Relazione tra redditi e aspettative di vita in Italia |
 | output/G2_Reddito_e_Soddisfazione.png | Relazione tra redditi e soddisfazione per la vita in Italia |
+| output/G3_Trend_Vita_Italia.png | Trend aspettativa di vita alla nascita degli italiani|
 
 ## Configurazioni
 Queste istruzioni ti permetteranno di realizzare una copia del progetto in locale per eseguire il codice.
