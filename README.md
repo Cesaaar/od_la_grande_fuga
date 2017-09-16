@@ -14,7 +14,8 @@ Salute, ricchezza e origini della disuguaglianza in Italia
 | output/G2_Reddito_e_Soddisfazione.png | Relazione tra redditi e soddisfazione per la vita in Italia |
 | output/G3_Trend_Vita_Italia.png | Trend aspettativa di vita alla nascita degli italiani|
 | output/G4_Tassi_Mortalita.png | Tassi di mortalità in Italia, per classi di età |
-| output| G5_Reddito_pro_capite.png | Principali indicatori del benessere materiale: il PIL pro capite, il reddito personale e la spesa per consumi |
+| output/G5_Reddito_pro_capite.png | Principali indicatori del benessere materiale: il PIL pro capite, il reddito personale e la spesa per consumi |
+| output/G6_Tassi_Povertà.png| Tassi di povertà in Italia |
 
 ## Configurazioni
 Queste istruzioni ti permetteranno di realizzare una copia del progetto in locale per eseguire il codice.
